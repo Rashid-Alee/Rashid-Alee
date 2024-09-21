@@ -1,25 +1,42 @@
 # Hi there, I'm Rashid Alee 👋
 
 ## 🚀 About Me
-Aspiring Python Developer with a keen interest in Machine Learning and Data Science. Currently focused on mastering Python and its applications.
+
+I'm a Python enthusiast diving deep into the world of web development with Django and exploring the fascinating realm of Machine Learning. Currently, I am honing my problem-solving skills, building real-world applications, and mastering cutting-edge technologies to become a versatile developer.
 
 ## 🛠 Skills & Learning
-- **Python Fundamentals**: Syntax, variables, data structures, functions.
-- **Object-Oriented Programming (OOP)**: Classes, objects, inheritance, polymorphism.
-- **Data Structures and Algorithms (DSA)**: Lists, trees, sorting, searching algorithms.
-- **Machine Learning**: Basics of machine learning algorithms and libraries.
+
+### 🌐 Web Development with Django
+- Building dynamic web applications using Django.
+- Designing and structuring REST APIs for web services.
+- Mastering database models, migrations, and query optimization in Django.
+
+### 🧠 Machine Learning & Data Science
+- Understanding core machine learning algorithms.
+- Implementing ML models with libraries like Scikit-learn, Pandas, and NumPy.
+- Exploring data visualization and feature engineering techniques.
+
+### 🛠 Problem Solving & Python Mastery
+- Enhancing problem-solving abilities through data structures and algorithms.
+- Tackling coding challenges on platforms like LeetCode and HackerRank.
+- Writing clean, efficient, and modular Python code.
 
 ## 📘 Projects
-- **[Python Fundamentals](https://github.com/Rashid-Alee/python-fundamentals)**: Mastering the basics of Python.
-- **[Python OOP](https://github.com/Rashid-Alee/python-oops)**: Learning Object-Oriented Programming with practical examples.
+
+- [Python Web Framework (Django)](https://github.com/Rashid-Alee/django-web-projects): Hands-on projects exploring Django’s capabilities for full-stack development.
+- [Machine Learning with Python](https://github.com/Rashid-Alee/machine-learning-projects): Exploring ML techniques through various projects and datasets.
+- [Problem Solving in Python](https://github.com/Rashid-Alee/python-problem-solving): Solving algorithmic challenges and coding problems with Python.
 
 ## 🌱 Learning Goals
-- Advanced Python techniques
-- In-depth Machine Learning and Data Science
-- Building real-world projects to showcase skills
+
+- Advance my knowledge of Python web frameworks like Django.
+- Dive deeper into Machine Learning, covering advanced topics and real-world applications.
+- Continuously improve my problem-solving skills by solving complex challenges.
+- Contribute to open-source projects and collaborate with the developer community.
 
 ## 💬 Connect with Me
-- **LinkedIn**: [Connect on LinkedIn](linkedin.com/in/rashid-soomro)
-- **Email**: [Send me an Email](rash2765@example.com)
 
-*Feel free to explore my repositories and reach out if you’d like to connect or have any questions!*
+- LinkedIn: [Connect on LinkedIn](linkedin.com/in/rashid-soomro)
+- Email: [Send me an Email](rash2765@example.com)
+
+Feel free to explore my repositories and reach out if you’d like to connect, collaborate, or chat about Python, Django, Machine Learning, or problem-solving!
